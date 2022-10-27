@@ -1,0 +1,935 @@
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.exe
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.deps.json
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.json
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.dev.json
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfoInputs.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfo.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CoreCompileInputs.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.Manifest.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.xml
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pustok.styles.css
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.input.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.output.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorCoreGenerate.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Create.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Detail.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Index.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Update.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\Error404.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Validator.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProdductSlider.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductDetailPartial.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CopyComplete
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.genruntimeconfig.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.AssemblyReference.cache
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Detail.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Update.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Index.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Create.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Update.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangeRole.cshtml.g.cs
+C:\Users\memme\Desktop\P221\Task\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.exe
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.deps.json
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.json
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.dev.json
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.AssemblyReference.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfoInputs.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfo.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CoreCompileInputs.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.Manifest.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.xml
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pustok.styles.css
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.input.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.output.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorCoreGenerate.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Create.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Detail.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Index.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Update.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Create.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Index.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Update.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\Error404.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Validator.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Detail.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Update.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangeRole.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProdductSlider.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductDetailPartial.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CopyComplete
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.genruntimeconfig.cache
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Alekberov Ulvi\OneDrive\Desktop\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.exe
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.deps.json
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pustok.styles.css
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Detail.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\Error404.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Validator.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Detail.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangeRole.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProdductSlider.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductDetailPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CopyComplete
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\ASUS\Desktop\New folder (3)\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.exe
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.deps.json
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.Manifest.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.xml
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pustok.styles.css
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.input.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.output.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorCoreGenerate.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Detail.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\Error404.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Validator.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Detail.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Update.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangeRole.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProdductSlider.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductDetailPartial.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cache
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CopyComplete
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\ASUS\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.genruntimeconfig.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.exe
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.deps.json
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.json
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.runtimeconfig.dev.json
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.AssemblyReference.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfoInputs.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.AssemblyInfo.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CoreCompileInputs.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorAssemblyInfo.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.Manifest.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\staticwebassets\Pustok.StaticWebAssets.xml
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\scopedcss\bundle\Pustok.styles.css
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.input.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.TagHelpers.output.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorCoreGenerate.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Error.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Create.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Detail.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Index.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Genre\Update.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Create.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Index.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Product\Update.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\Error404.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Shared\_Validator.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Create.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Delete.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Detail.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Index.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\Slider\Update.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangePassword.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\ChangeRole.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\User\Index.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewImports.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Areas\Manage\Views\_ViewStart.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ChangePassword.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProdductSlider.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ProductDetailPartial.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cache
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.RazorTargetAssemblyInfo.cs
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.Views.pdb
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.csproj.CopyComplete
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.dll
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.pdb
+C:\Users\FX506LI\Desktop\New folder (4)\be_25-10-2021_practiseday1-Ilkin64700\projerepo\Pustok\Pustok\obj\Debug\netcoreapp3.1\Pustok.genruntimeconfig.cache

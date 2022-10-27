@@ -1,0 +1,23 @@
+﻿@model Slider
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div class="card" style="width: 18rem;">
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+            <img style="max-width:100%" src="~/image/bg-images/@Model.Image" alt="Alternate Text" />
+        </li>
+        <li class="list-group-item">Id: @Model.Id</li>
+        <li class="list-group-item">Title: @Html.Raw(@Model.Title)</li>
+        <li class="list-group-item">Description: @Model.Description</li>
+        <li class="list-group-item">Price: @Model.Price</li>
+        <li class="list-group-item">Order: @Model.Order</li>
+    </ul>
+
+    <a class="btn btn-primary" asp-action="Index">Go List</a>
+    <h1>Silmek Isdediynize Eminsinizmi:</h1>
+    <form method="post">
+        <button type="submit" class="btn btn-danger">Delete</button>
+    </form>
+</div>

@@ -1,0 +1,57 @@
+﻿@model ICollection<Product>
+
+@foreach (Product product in Model)
+{
+    <div class="single-slide">
+        <div class="product-card">
+            <div class="product-header">
+                <a href="#" class="author">
+                    @*@(product.Author != null ? product.Author.Name : ""))*@
+                    @product.Author?.Name
+                </a>
+                <h3>
+                    <a href="~/product-details.html">
+                        @product.Title
+                    </a>
+                </h3>
+            </div>
+            <div class="product-card--body">
+                <div class="card-image">
+                    <img src="~/image/products/@product.MainImage" alt="">
+                    <div class="hover-contents">
+                        <a href="~/product-details.html" class="hover-image">
+                            <img src="~/image/products/@product.HoverImage" alt="">
+                        </a>
+                        <div class="hover-btns">
+                            <a href="~/cart.html" class="single-btn">
+                                <i class="fas fa-shopping-basket"></i>
+                            </a>
+                            <a href="~/wishlist.html" class="single-btn">
+                                <i class="fas fa-heart"></i>
+                            </a>
+                            <a href="~/compare.html" class="single-btn">
+                                <i class="fas fa-random"></i>
+                            </a>
+                            <a asp-controller="Product" asp-action="GetDetail" asp-route-Id="@product.Id" data-toggle="modal" data-target="#quickModal"
+                               class="single-btn" id="product-Detail">
+                                <i class="fas fa-eye"></i>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="price-block">
+                    @if (product.DiscountPrice != null)
+                    {
+                        <span class="price">£@(Convert.ToDouble(product.DiscountPrice).ToString("F2"))</span>
+                        <del class="price-old">£@(Convert.ToDouble(product.Price.ToString("F2")))</del>
+                        <span class="price-discount">@((int)(100-((product.DiscountPrice / product.Price) * 100)))%</span>
+                    }
+                    else
+                    {
+                        <span class="price">£@product.Price</span>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+}

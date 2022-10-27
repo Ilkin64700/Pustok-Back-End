@@ -1,0 +1,60 @@
+﻿@model ICollection<AppUserVM>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 class="h3 mb-4 text-gray-800">Product Page</h1>
+
+<div class="d-flex justify-content-end mb-2">
+    <a class="btn btn-primary" asp-action="Create">Create</a>
+</div>
+
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th scope="col">Name</th>
+            <th scope="col">SurName</th>
+            <th scope="col">Father Name</th>
+            <th scope="col">Age</th>
+            <th scope="col">Email</th>
+            <th scope="col">User Name</th>
+            <th scope="col">Role</th>
+            <th scope="col">Status</th>
+            <th scope="col">Settings</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (AppUserVM appUserVM in Model)
+        {
+        <tr>
+            <th scope="row">@appUserVM.Name</th>
+            <td>@appUserVM.SurName</td>
+            <td>@appUserVM.FatherName</td>
+            <td>@appUserVM.Age</td>
+            <td>@appUserVM.Email</td>
+            <td>@appUserVM.UserName</td>
+            <td>@appUserVM.Role</td>
+            @if (appUserVM.IsDeleted)
+            {
+                <td style="color:red">De Active</td>
+            }
+            else
+            {
+                <td style="color:green">Active</td>
+            }
+            <td>
+                @if (appUserVM.IsDeleted)
+                {
+                    <a class="btn btn-primary" asp-action="ChangeStatus" asp-route-Id="@appUserVM.Id" asp-route-status="false">Activate</a>
+                }
+                else
+                {
+                    <a class="btn btn-warning" asp-action="ChangeStatus" asp-route-Id="@appUserVM.Id" asp-route-status="true">De Activate</a>
+                }
+                <a class="btn btn-danger" asp-action="ChangeRole" asp-route-Id="@appUserVM.Id">Change Role</a>
+                <a class=" btn btn-danger" asp-action="ChangePassword" asp-route-Id="@appUserVM.Id">Change Password</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

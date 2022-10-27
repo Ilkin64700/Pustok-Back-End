@@ -1,0 +1,149 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Update";
+}
+
+<div class="row">
+    <div class="col-6">
+        <div class="card" style="width: 18rem;">
+            <h1>Main Image</h1>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <img style="max-width:100%" src="~/image/products/@Model.MainImage" alt="Alternate Text" />
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="card" style="width: 18rem;">
+            <h1>Hover Image</h1>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item">
+                    <img style="max-width:100%" src="~/image/products/@Model.HoverImage" alt="Alternate Text" />
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="row">
+    @if (Model.ProductImages != null)
+    {
+        @foreach (ProductImage productImage in Model.ProductImages)
+        {
+            <div class="col-3">
+                <div class="card" style="width: 18rem;">
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item">
+                            <img style="max-width:100%" src="~/image/products/@productImage.Name" alt="Alternate Text" />
+                        </li>
+                    </ul>
+                    <a class="btn btn-danger" asp-action="DeleteProductImage" asp-route-Id="@productImage.Id">Delete</a>
+                </div>
+            </div>
+        }
+    }
+</div>
+
+
+
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="Title"></label>
+        <input class="form-control" asp-for="Title">
+        <span class="alert-danger" asp-validation-for="Title"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="MainImageFile"></label>
+        <input class="form-control" accept="image/*" asp-for="MainImageFile">
+        <span class="alert-danger" asp-validation-for="MainImageFile"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="HoverImageFile"></label>
+        <input class="form-control" accept="image/*" asp-for="HoverImageFile">
+        <span class="alert-danger" asp-validation-for="HoverImageFile"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ProductImagesFile"></label>
+        <input class="form-control" accept="image/*" asp-for="ProductImagesFile">
+        <span class="alert-danger" asp-validation-for="ProductImagesFile"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Price"></label>
+        <input class="form-control" asp-for="Price">
+        <span class="alert-danger" asp-validation-for="Price"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="DiscountPrice"></label>
+        <input class="form-control" asp-for="DiscountPrice">
+        <span class="alert-danger" asp-validation-for="DiscountPrice"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="IsFeature"></label>
+        <input class="form-control" asp-for="IsFeature">
+        <span class="alert-danger" asp-validation-for="IsFeature"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="IsArrival"></label>
+        <input class="form-control" asp-for="IsArrival">
+        <span class="alert-danger" asp-validation-for="IsArrival"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="IsMostView"></label>
+        <input class="form-control" asp-for="IsMostView">
+        <span class="alert-danger" asp-validation-for="IsMostView"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Code"></label>
+        <input class="form-control" asp-for="Code">
+        <span class="alert-danger" asp-validation-for="Code"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Description"></label>
+        <input class="form-control" asp-for="Description">
+        <span class="alert-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="ExTax"></label>
+        <input class="form-control" asp-for="ExTax">
+        <span class="alert-danger" asp-validation-for="ExTax"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="IsAvailability"></label>
+        <input class="form-control" asp-for="IsAvailability">
+        <span class="alert-danger" asp-validation-for="IsAvailability"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Point"></label>
+        <input class="form-control" asp-for="Point">
+        <span class="alert-danger" asp-validation-for="Point"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Star"></label>
+        <input class="form-control" asp-for="Star">
+        <span class="alert-danger" asp-validation-for="Star"></span>
+    </div>
+    <div class="mb-3">
+        <label>Author</label>
+        <select class="form-control" asp-for="AuthorId">
+            @foreach (var author in ViewBag.Authors)
+            {
+                <option value="@author.Id">@author.Name</option>
+            }
+        </select>
+        <span class="alert-danger" asp-validation-for="AuthorId"></span>
+    </div>
+    <div class="mb-3">
+        <label>Genre</label>
+        <select class="form-control" asp-for="GenreId">
+            @foreach (var genre in ViewBag.Genres)
+            {
+                <option value="@genre.Id">@genre.Name</option>
+            }
+        </select>
+        <span class="alert-danger" asp-validation-for="GenreId"></span>
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

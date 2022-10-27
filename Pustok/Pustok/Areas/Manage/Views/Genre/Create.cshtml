@@ -1,0 +1,14 @@
+﻿@model Genre
+@{
+    ViewData["Title"] = "Create";
+}
+
+<form method="post">
+    <div class="mb-3">
+        <label asp-for="@Model.Name"></label>
+        <input class="form-control" asp-for="@Model.Name">
+        <span class="alert-danger" asp-validation-for="@Model.Name"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>

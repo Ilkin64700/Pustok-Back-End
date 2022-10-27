@@ -1,0 +1,13 @@
+﻿@model Genre
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<div class="card" style="width: 18rem;">
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">@Model.Id</li>
+        <li class="list-group-item">@Model.Name</li>
+    </ul>
+
+    <a class="btn btn-primary" asp-action="Index">Go List</a>
+</div>

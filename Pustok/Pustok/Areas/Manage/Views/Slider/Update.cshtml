@@ -1,0 +1,41 @@
+﻿@model Slider
+@{
+    ViewData["Title"] = "Update";
+}
+<div class="card" style="width: 18rem;">
+    <ul class="list-group list-group-flush">
+        <li class="list-group-item">
+            <img style="max-width:100%" src="~/image/bg-images/@Model.Image" alt="Alternate Text" />
+        </li>
+    </ul>
+</div>
+
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label asp-for="@Model.Title"></label>
+        <input class="form-control" asp-for="@Model.Title">
+        <span class="alert-danger" asp-validation-for="@Model.Title"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Description"></label>
+        <input class="form-control" asp-for="@Model.Description">
+        <span class="alert-danger" asp-validation-for="@Model.Description"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Price"></label>
+        <input class="form-control" asp-for="@Model.Price">
+        <span class="alert-danger" asp-validation-for="@Model.Price"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.Order"></label>
+        <input class="form-control" asp-for="@Model.Order">
+        <span class="alert-danger" asp-validation-for="@Model.Order"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="@Model.File"></label>
+        <input class="form-control" accept="image/*" asp-for="@Model.File">
+        <span class="alert-danger" asp-validation-for="@Model.File"></span>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
